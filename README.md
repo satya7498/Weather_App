@@ -3,7 +3,7 @@
 Weather App is a simple flutter based application,with minimal UI ,It fetches current data through HTTP request and displays it in the app.
 Documentation:https://openweathermap.org/current
 
-Screenshot:
+Screenshot:![Screenshot (448)](https://user-images.githubusercontent.com/48786016/99674204-bfbc0580-2a9b-11eb-8274-b604c6a916ba.png)
 
 
 ## Getting Started
